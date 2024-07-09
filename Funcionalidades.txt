@@ -1,1 +1,4 @@
 As funcionalidades desse aplicativo se delimitam a home do Instagram.
+
+Contendo:
+- Layout home (aba Story, bar Navegation, DMs e posts).
